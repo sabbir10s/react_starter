@@ -34,6 +34,9 @@ export default {
           DEFAULT: '#101828',
         }
       },
+      fontFamily: {
+        SourceSans: ["Source-Sans", "sans-serif"],
+      },
     },
     screens: {
       xs: "480px",
