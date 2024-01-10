@@ -35,7 +35,7 @@ export default {
         }
       },
       fontFamily: {
-        SourceSans: ["Source-Sans", "sans-serif"],
+        poppins: ["Poppins", "sans-serif"],
       },
     },
     screens: {
